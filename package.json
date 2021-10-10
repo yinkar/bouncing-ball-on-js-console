@@ -1,0 +1,20 @@
+{
+  "name": "bouncing-ball-on-js-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinkar/bouncing-ball-on-js-console.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinkar/bouncing-ball-on-js-console/issues"
+  },
+  "homepage": "https://github.com/yinkar/bouncing-ball-on-js-console#readme"
+}
